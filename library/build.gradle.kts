@@ -3,6 +3,7 @@ import java.util.*
 
 plugins {
     id("com.android.library")
+    id("maven-publish")
     kotlin("android")
 }
 
